@@ -26,8 +26,10 @@ This project explores the Greek residential property market using a comprehensiv
 - Significant **regional variation** in property prices.
 - Certain **property features** (e.g., area, location, condition) have a strong impact on value.
 
-## Explore the Original Notebook on Kaggle  
-[View on Kaggle](https://lnkd.in/dMRUywU8)
+## View the Full Notebook
+
+- 📄 [View on NBViewer](https://nbviewer.org/github/giannisgks/Predicting-Greek-Real-Estate-Prices/blob/main/greek-housing-market-data-analysisFINAL.ipynb)
+- 🔗 [View on GitHub](https://github.com/giannisgks/Predicting-Greek-Real-Estate-Prices/blob/main/greek-housing-market-data-analysisFINAL.ipynb)
 
 ---
 
